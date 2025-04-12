@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^22.14.1",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.5.0",
+    "tailwindcss": "^4.1.3"
+  }
+}
